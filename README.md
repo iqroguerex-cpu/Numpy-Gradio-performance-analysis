@@ -70,6 +70,6 @@ Everything updates interactively in the browser.
 
 ## Author
 
-Chinmay V Chatradamath
+Chinmay V Chatradamath.
 
 ---
